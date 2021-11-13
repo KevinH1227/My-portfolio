@@ -6,6 +6,19 @@ h2 {
   padding: 0px;
 }
 
-.projects {
+/* .projects {
   display: flex;
+} */
+
+.projects img {
+  height: 100%;
+  width: 75%;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  float: right;
+}
+
+.project1 {
+  float: left;
 }
