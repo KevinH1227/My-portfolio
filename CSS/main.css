@@ -8,3 +8,7 @@ h1 {
 .text-color-main {
   color: #A1CAE2;
 }
+
+#main {
+  padding: 16rem 5rem;
+}

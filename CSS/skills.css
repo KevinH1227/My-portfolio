@@ -2,6 +2,8 @@
 background: #74ebd5;
 background: -webkit-linear-gradient(to left, #ACB6E5, #74ebd5);
 background: linear-gradient(to left, #ACB6E5, #74ebd5);
+padding: 8rem 4rem;
+margin: 0px -7px;
 }
 
 h4 {
