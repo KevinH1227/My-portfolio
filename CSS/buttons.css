@@ -1,0 +1,22 @@
+.buttons {
+  display: flex;
+  padding: 1px;
+}
+
+.button-fill-left {
+  box-shadow: inset 0px 0px 0px #A1CAE2;
+  transition: all 0.5s;
+  border: #A1CAE2 solid 2px;
+  cursor: pointer;
+  background-color: transparent;
+  padding: 12px 28px;
+  text-decoration: none;
+  font-size: 14px;
+  color: #A1CAE2;
+  }
+  
+  .button-fill-left:hover {
+  box-shadow: inset 150px 0px 1px #A1CAE2;
+  color: white;
+  }
+
