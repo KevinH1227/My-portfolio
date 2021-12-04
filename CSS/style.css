@@ -37,4 +37,12 @@
   .button-fill-left {
     width: 40vw;
   }
+
+  .skills-box {
+    flex-direction: column;
+  }
+
+  h5 {
+    font-size: 2rem ;
+  }
 }
