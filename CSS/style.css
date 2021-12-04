@@ -45,4 +45,26 @@
   h5 {
     font-size: 2rem ;
   }
+
+h3 {
+  text-align: center;
+}
+
+.projects {
+  align-items: center;
+}
+
+  /* .project1 .project2 .project3 .project4{
+    display: block;
+    align-items: center;
+    text-align: center;
+  }
+
+  .tech-stach {
+    text-align: center;
+  }
+
+  .image-container {
+    display: inline-block;
+  } */
 }
